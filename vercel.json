@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      { "source": "/Beranda", "destination": "/Index.html" },
+      { "source": "/Pilih Beasiswa", "destination": "/Pilih Beasiswa.html" },
+      { "source": "/Portofolio", "destination": "/Portofolio.html" },
+      { "source": "/Artikel", "destination": "/Artikel.html" }
+    ]
+  }
